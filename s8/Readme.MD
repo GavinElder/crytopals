@@ -20,5 +20,14 @@ This set focuses on abstract algebra, including DH, GCM, and (most importantly) 
 64. Key-Recovery Attacks on GCM with a Truncated MAC
 
 ```bash
-But wait, where are the actual challenges?! You'll need to mail in for them, just like in the original cryptopals. Send a mail to set#.cryptopals@gmail.com and make the subject "Crazy Flamboyant for the Rap Enjoyment". BUT replace the # with the number of the set you want. Which would be 8. So replace it with 8.
+But wait, where are the actual challenges?! You'll need to mail
+
+in for them, just like in the original cryptopals. Send a mail
+
+to set#.cryptopals@gmail.com and make the subject "Crazy
+
+Flamboyant for the Rap Enjoyment". BUT replace the # with the
+
+number of the set you want. Which would be 8. So replace it with
+8.
 ```
