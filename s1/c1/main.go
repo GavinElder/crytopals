@@ -20,5 +20,4 @@ func main() {
 	str := base64.StdEncoding.EncodeToString(dst[:n])
 
 	fmt.Printf("%s\n", str)
-
 }
