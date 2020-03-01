@@ -7,11 +7,15 @@ If your function works properly, then when you feed it the string:
 ```bash
 1c0111001f010100061a024b53535009181c
 ```
+
 ... after hex decoding, and when XOR'd against:
+
 ```bash
 686974207468652062756c6c277320657965
 ```
+
 ... should produce:
+
 ```bash
 746865206b696420646f6e277420706c6179
 ```
